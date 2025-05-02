@@ -1,16 +1,23 @@
 # sabira
 
-A new Flutter project.
+Plataformas: Android y ios
 
-## Getting Started
+Framework: Flutter
 
-This project is a starting point for a Flutter application.
+Lenguaje de programación: Dart
 
-A few resources to get you started if this is your first Flutter project:
+Backend: Node.js Epress con firestore de firebase (Código del backend no disponible en GitHub)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---- Estado: En construcción
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Servicios de firebase:
+
+Firestore (Base de datos no relacional)
+Storage: Almacenamiento en la nube para guardar imagenes
+Authentication: Servicio de autenticación y creación de usuarios 
+Cloud Messaging: Servicio para notificaciónes push
+
+¿Qué es Sabira? 
+
+Es una aplicación móvil de citas, donde el objetivo es un lugar para concocer nuevas personas.
+
