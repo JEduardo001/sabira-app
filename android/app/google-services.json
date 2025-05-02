@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135598827042",
+    "project_id": "sabira-1c08b",
+    "storage_bucket": "sabira-1c08b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135598827042:android:e4b923d9b5a530859ecc7b",
+        "android_client_info": {
+          "package_name": "com.company.sabira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAuR_k3eHVs_-8uSCtfQT2vmDV325OHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
